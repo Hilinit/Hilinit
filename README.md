@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hilinit
-- 👀 I’m interested in codig
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning AI and Web Development
 - 📫 How to reach me everywhere:)
 - 😄 Pronouns: me:)
