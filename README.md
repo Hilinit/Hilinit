@@ -1,5 +1,8 @@
-![MasterHead](https://www.dropbox.com/scl/fi/qbz9a4hd4ej682yi0qp00/githubphoto.jpeg?rlkey=4636hfigfem1ar33s1w8ol60f&st=ryulm8n0&dl=0)
-<h1 align="center">Hi, I'm Xəyalə İsmayılıı</h1>
+
+<div align="center">
+  <img src="https://i.pinimg.com/1200x/be/a1/04/bea10483733fc66297b9986927dad702.jpg" width="800"/>
+</div>
+<h1 align="center">Hi, I'm Xəyalə İsmayıllı</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan. I build interactive web applications and small full-stack projects while improving my frontend and problem-solving skills.</h3>
 
 
