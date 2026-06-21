@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/736x/fc/4a/79/fc4a791a734753924af368b74a95ca1a.jpg)
+![MasterHead](https://www.dropbox.com/scl/fi/qbz9a4hd4ej682yi0qp00/githubphoto.jpeg?rlkey=4636hfigfem1ar33s1w8ol60f&st=ryulm8n0&dl=0)
 <h1 align="center">Hi, I'm Xəyalə İsmayılıı</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan. I build interactive web applications and small full-stack projects while improving my frontend and problem-solving skills.</h3>
 
