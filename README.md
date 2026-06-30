@@ -1,10 +1,10 @@
 
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/be/a1/04/bea10483733fc66297b9986927dad702.jpg" width="800"/>
+  <img src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif" width="800" height="600"/>
 </div>
 <h1 align="center">Hi, I'm Xəyalə İsmayıllı</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan. I build interactive web applications and small full-stack projects while improving my frontend and problem-solving skills.</h3>
-
+<!--https://i.pinimg.com/1200x/be/a1/04/bea10483733fc66297b9986927dad702.jpg-->
 
 - I’m currently working on **Recat projects**
 
