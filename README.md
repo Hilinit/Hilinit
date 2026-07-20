@@ -35,5 +35,4 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/960px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> </a> 
 </p>
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=hilinit&" alt="hilinit" /></p>
 
